@@ -26,7 +26,7 @@ O Carneats calcula a quantidade de carne e bebida necessária para um churrasco 
 
 #### Tela inicial
 
-Aperte `"Calcular seu churrasco"` para começar a calcualar.
+Aperte `"Calcular seu churrasco"` para começar a calcular.
 
 <p align="center">
   <img alt="Tela inicial" src="./src/Img/inicial.jpeg" width="300" height="550">
@@ -119,5 +119,15 @@ $ expo start
 ```
 
 ---
+
+## Autores
+
+  * **José Mota** 
+  * **Lucas Pereira**
+  * **Miguel Soares**
+  * **Nicolas Gomes**
+  
+  ## Repositório original
+  * **https://github.com/NeckBlick/Calculadora-de-churrasco**
 
 Feito com ♥ by Carneats :wave:
